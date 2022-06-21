@@ -5,4 +5,5 @@
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
-<img src=””>
+
+<img style="width: 30%;" src="https://user-images.githubusercontent.com/85878553/174715252-beb5d50b-b908-4c01-9099-0a8175db0de9.png" />
